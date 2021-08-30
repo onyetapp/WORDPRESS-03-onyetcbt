@@ -3,3 +3,4 @@
 # I will help with nodejs
 # I will help with PHP, i hope.
 # I will help with Nebular UI
+# I will help with Angular Platform, and all team.
